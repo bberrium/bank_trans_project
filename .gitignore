@@ -1,0 +1,16 @@
+# Generated database — recreate with `python src/create_db.py`
+data/db/bank.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
